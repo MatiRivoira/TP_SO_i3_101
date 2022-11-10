@@ -1,0 +1,48 @@
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::3362:5ff1:bfb2:caf3%8
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.1.23
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 192.148.1.1
+
+Adaptador de Ethernet VirtualBox Host-Only Network:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::6752:6331:b07c:156c%4
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.12.1
+   Máscara de subred . . . . . . . . . . . . : 255.255.235.0
+   Puerta de enlace predeterminada . . . . . :
+Hora 20:47
+
+Kevin Condori 20:51
+
+   Sufijo DNS específico para la conexión. . : Movistar.com.ar
+   Vínculo: dirección IPv6 local. . . : fe80::ab95:f478:b3ad:e475%13
+   Dirección IPv4. . . . . . . . . . . . . . : 192.158.0.00
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 192.158.0.1
+
+Adaptador de Ethernet Ethernet 2:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::cd31:7149:23cc:d713%9
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . :
+
+Jeronimo Granadillo 20:52
+
+   Sufijo DNS específico para la conexión. . : fibertel.com.ar
+   Vínculo: dirección IPv6 local. . . : fe80::ab95:f478:b3ad:e475%13
+   Dirección IPv4. . . . . . . . . . . . . . : 192.178.0.14
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 192.178.0.1
+
+Adaptador de Ethernet Ethernet 2:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::cd31:7149:23cc:d713%9
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . :
