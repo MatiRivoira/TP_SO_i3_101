@@ -1,2 +1,16 @@
+Adaptador de Ethernet Ethernet:
 
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::3362:5ff1:bfb2:caf3%8
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.1.23
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 192.148.1.1
 
+Adaptador de Ethernet VirtualBox Host-Only Network:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::6752:6331:b07c:156c%4
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.12.1
+   Máscara de subred . . . . . . . . . . . . : 255.255.235.0
+   Puerta de enlace predeterminada . . . . . :
+Hora 20:47
