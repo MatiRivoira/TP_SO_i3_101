@@ -16,6 +16,13 @@ e-¿Detalle (explique) los problemas que tuvieron al hacer el merge?
 No estaba gamma, y tuvimos un problema con el commit pero lo solucionamos al instante.
 
 f-¿que debió hacer (todos los comandos) en el punto 7 para poder hacer lo pedido?
+git clone -b MatiasRivoira https://github.com/MatiRivoira/TP_SO_i3_101.git
+(Se agreggo los datos manualmente en el archivo txt)
+Al no estar Gamma se realizo en conjunto el punto 8...
 
 Responde ALFA:
 G-¿que debió hacer(todos los comandos) en el punto 8 para poder hacer lo pedido?
+Como Gamma no estaba el repositorio ya estaba clonado asi que se agregaron los datos manualmente.
+git add .
+git commit -m "iteracion 7, 8 Gamma y Alfa"
+git push origin MatiasRivoira
